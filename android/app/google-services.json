@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969510736826",
+    "project_id": "notes-f3585",
+    "storage_bucket": "notes-f3585.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969510736826:android:f5c5244262ac9147dd0383",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969510736826-mtukqfeflps9q3equnbfc09vjdbj5216.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFr2jaf4zf-0x6TT1IJMfdV0kJj2t56ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969510736826-mtukqfeflps9q3equnbfc09vjdbj5216.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
